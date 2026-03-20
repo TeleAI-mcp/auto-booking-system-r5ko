@@ -1,2 +1,3 @@
-# auto-booking-system-r5ko
-A reservation and booking system for modern development workflows
+# Auto Booking System R5Ko
+
+A reservation and booking system for modern development workflows.
